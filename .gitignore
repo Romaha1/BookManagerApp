@@ -1,0 +1,36 @@
+# Build results
+bin/
+obj/
+out/
+Debug/
+Release/
+
+# Rider and JetBrains specific files
+.idea/
+*.sln.iml
+workspace.xml
+tasks.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/libraries/
+
+# ReSharper settings
+*.DotSettings.user
+*.suo
+*.userprefs
+*.cache
+
+# NuGet packages
+packages/
+project.lock.json
+*.nuget.props
+*.nuget.targets
+
+# Logs and temporary files
+logs/
+*.log
+*.pidb
+*.mdb
+*.opendb
+Thumbs.db
+.DS_Store
